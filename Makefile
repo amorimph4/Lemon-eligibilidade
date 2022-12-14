@@ -1,7 +1,7 @@
 CONTAINER_NAME=nestjs_api_dev
 
 up:
-	docker-compose up dev -d
+	docker-compose up dev
 
 down:
 	docker-compose down
